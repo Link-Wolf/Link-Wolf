@@ -1,6 +1,6 @@
 # 🕵️ Who am I 
 
- Hi ! I'm Link, studying at [@42School](https://github.com/42School)
+ Hi ! I'm Link, studying at [@42School](https://github.com/42School)\  
  I'm curious and currently mainly interested in cybersecurity !
 
 # 💻 Tech Stack 
