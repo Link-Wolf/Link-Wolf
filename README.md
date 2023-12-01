@@ -22,7 +22,7 @@
 
 # 📊 GitHub Stats 
 <div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=link-wolf&hide_rank=true&show_icons=true&include_all_commits=true&text_color=9f9f9f&icon_color=ffffff&disable_animations=false&locale=en&hide_border=true&bg_color=151515&title_color=ffffff&custom_title=Stats" height="200" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=link-wolf&hide_rank=true&show_icons=true&text_color=9f9f9f&icon_color=ffffff&disable_animations=false&locale=en&hide_border=true&bg_color=151515&title_color=ffffff&custom_title=Stats" height="200" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=link-wolf&text_color=9f9f9f&icon_color=ffffff&disable_animations=false&locale=en&hide_border=true&bg_color=151515&title_color=ffffff&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&card_width=350" height="200px" alt="languages graph"  />
 </div>
 
